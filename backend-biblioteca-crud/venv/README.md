@@ -1,0 +1,1 @@
+Esta carpeta se mantiene visible en GitHub como referencia. Crea el entorno virtual localmente con `python -m venv venv`; sus paquetes no se suben al repositorio.

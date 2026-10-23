@@ -1,4 +1,5 @@
-venv/
+venv/*
+!venv/README.md
 __pycache__/
 *.pyc
 .thuder-client/
